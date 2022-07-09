@@ -13,4 +13,3 @@
 
 :: Built with Spring Boot :: ${spring-boot.version}
 
-#Naga is a great DevOps Engineer in India
