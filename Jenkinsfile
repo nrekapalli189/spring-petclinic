@@ -1,4 +1,4 @@
-node{
+node('MAVEN'){
     stage('GitClone'){
         git branch: 'main', url: 'https://github.com/nrekapalli189/spring-petclinic.git'
     }
